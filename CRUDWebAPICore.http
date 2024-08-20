@@ -1,0 +1,6 @@
+@CRUDWebAPICore_HostAddress = http://localhost:5227
+
+GET {{CRUDWebAPICore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
